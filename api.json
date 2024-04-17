@@ -1,5 +1,5 @@
 {
-    "url_launcher": "http://192.168.1.74/2.0/APK/app-debug.apk",
+    "url_launcher": "http://esx-samp.com/2.0/APK/app-debug.apk",
     "version_launcher": "1.0.1",
-    "url_game": "http://192.168.1.74/2.0/API/list_game.json"
+    "url_game": "http://esx-samp.com/2.0/API/list_game.json"
 }
