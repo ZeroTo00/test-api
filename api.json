@@ -1,5 +1,5 @@
 {
     "url_launcher": "http://esx-samp.com/2.0/api/app-debug.apk",
     "version_launcher": "1.0.0",
-    "url_game": "http://esx-samp.com/2.0/api/list_game.json"
+    "url_game": "https://raw.githubusercontent.com/ZeroTo00/test-api/main/list_game.json"
 }
